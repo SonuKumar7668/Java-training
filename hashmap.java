@@ -5,7 +5,7 @@ public class hashmap {
     hm.put("hello",12);
     hm.put("mello",10);
     hm.put("mello",10);
-    HashMap<String,Integer> hmm = new HashMap<>();        
+    HashMap<String,Integer> hmm = new HashMap<>();
     hmm.put("helloo",123);
     hmm.put("melloo",101);
     System.out.println(hm);
