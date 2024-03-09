@@ -6,7 +6,7 @@ public class guiapp {
         fm.setSize(300,400);
         fm.setVisible(true);
         p.setBackground(Color.PINK);
-        fm.setBackground(Color.DARK_GRAY);
+        fm.setBackground(Color.BLUE);
         p.setLayout(new GridLayout(6,2));
         fm.setLayout(new GridLayout(6,2));
         Label le1 = new Label("Enter first Number");
